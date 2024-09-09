@@ -38,7 +38,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgb(177, 167, 140);
+    background: rgb(255, 205, 229);
     display: flex;
 }
 .sidebar {
@@ -55,7 +55,7 @@ main {
 
 /* portfolio styles */
 #interests {
-    border: 4px silver ridge;
+    border: 4px rgb(252, 18, 135) ridge;
     padding: 8px;
 }
 h2, h3 {
