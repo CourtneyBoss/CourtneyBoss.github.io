@@ -28,7 +28,7 @@ $(function () {
      * Comment the function call out to remove the grid
      */
 
-    // drawGrid();
+     drawGrid();
 
     /////////////////////////////////////////////////
     //////////ONLY CHANGE BELOW THIS POINT///////////
@@ -40,7 +40,7 @@ $(function () {
     // example usage: createPlatform(x,y,width,height)
     createPlatform(700, 200, 300, 10) 
     createPlatform(450, 525, 300, 10)
-    createPlatform(800, 425, 300, 0)
+    createPlatform(800, 425, 300, 10)
     createPlatform(450, 325, 300, 10)
     createPlatform(120, 225, 300, 10)
 
